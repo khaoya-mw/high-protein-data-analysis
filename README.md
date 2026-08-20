@@ -6,7 +6,7 @@ End-to-end data analysis exploring protein intake, diet, activity, calorie consu
 
 ## Motivation
 
-As someone interested in entering the world of fitness, I am curious about the obsession with protein. I wanted to investigate, using my data analysis skills, whether high protein intake is associated with diet types, activity level, gender, calorie consumption and other health indicators. Firstly, I used SQL queries to analyse a health database with up to 6000 observations and 15 variables. Then I visualised these findings in a dashboard using Tableau and conducted a regression analysis in R to determine the relationship between protein intake and calories consumed, holding other factors constant.
+As someone interested in entering the world of fitness, I am curious about the obsession with protein.I wanted to investigate, using data, whether higher protein intake is associated with differences in diet type, activity level, calorie consumption and health indicators. Firstly, I used SQL queries to analyse a health database with up to 6000 observations and 15 variables. Then I visualised these findings in a dashboard using Tableau and conducted a regression analysis in R to determine the relationship between protein intake and calories consumed, holding other factors constant.
 
 ## Research Questions
 
