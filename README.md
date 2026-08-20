@@ -95,7 +95,7 @@ The dashboard focuses on:
 - Activity and health-status differences in protein intake
 - Calorie balance across participants
 
-![Tableau Dashboard](Images/healthy_diet_dashboard.jpg)
+![Tableau Dashboard]()
 
 ## R Regression Analysis
 
