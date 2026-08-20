@@ -95,7 +95,7 @@ The dashboard focuses on:
 - Activity and health-status differences in protein intake
 - Calorie balance across participants
 
-![Tableau Dashboard]()
+![Tableau Dashboard](Images/High_Protein_Diet_Dashboard.png)
 
 ## R Regression Analysis
 
