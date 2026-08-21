@@ -179,6 +179,6 @@ Future versions of the project could:
 ## Project Files
 
 - [SQL Analysis](High-Protein-Diet-Analysis/SQL/healthy_diet_analysis.sql)
-- [Tableau Dashboard]()
+- [Tableau Dashboard](High-Protein-Diet-Analysis/Tableau/healthy_diet_dashboard.twb)
 - [R Regression Analysis](High-Protein-Diet-Analysis/R/protein_calories_regression.R)
 
