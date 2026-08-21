@@ -180,5 +180,5 @@ Future versions of the project could:
 
 - [SQL Analysis]()
 - [Tableau Dashboard]()
-- [R Regression Analysis]()
+- [R Regression Analysis](High-Protein-Diet-Analysis/R/protein_calories_regression.R)
 
